@@ -36,18 +36,6 @@ My work focuses on clean backend architecture using **Java & Spring Boot**, alon
 **Others**  
 `Git` · `GitHub` · `Postman` · `IntelliJ IDEA` · `VS Code`
 
-
-## 📌 Pinned Work
-
-My GitHub is organized into:
-- **Backend Projects** (Java/Spring Boot)  
-- **UI/Frontend Experiments**  
-- **Visual Design Collections**  
-- **Learning & Practice Repositories**
-
-Check out the pinned repositories below 👇
-
-
 ## 🌱 Currently Learning
 - Java/Spring Boot  
 - API Security  
