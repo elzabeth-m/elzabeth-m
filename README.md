@@ -1,16 +1,70 @@
-## Hi there 👋
+## 👋 Hi, I'm Elsabet Mulugeta!
 
-<!--
-**elzabeth-m/elzabeth-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer | Visual & UI Designer
 
-Here are some ideas to get you started:
+I build both the **logic** and the **visuals** of digital products.  
+My work focuses on clean backend architecture using **Java & Spring Boot**, along with clear and minimal visual design for **UI layouts, logos, icons, and typography**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+### 🔹 Backend Development (Java / Spring Boot)
+- REST APIs  
+- Authentication & JWT  
+- CRUD Applications  
+- Database Design  
+- Clean Architecture Principles  
+
+### 🔹 UI & Visual Design
+- UI Layouts & Components  
+- Logo & Icon Design  
+- Text-based Visuals  
+- Color Systems & Typography  
+
+---
+
+## 🛠 Tech & Tools
+
+**Languages & Backend**  
+`Java` · `Spring Boot` · `Maven` · `REST API`
+
+**Frontend & UI**  
+`HTML` · `CSS` · `JavaScript` · `Figma`
+
+**Design**  
+`Logo Design` · `Typography` · `Visual Composition`
+
+**Others**  
+`Git` · `GitHub` · `Postman` · `IntelliJ IDEA` · `VS Code`
+
+---
+
+## 📌 Pinned Work
+
+My GitHub is organized into:
+- **Backend Projects** (Java/Spring Boot)  
+- **UI/Frontend Experiments**  
+- **Visual Design Collections**  
+- **Learning & Practice Repositories**
+
+Check out the pinned repositories below 👇
+
+---
+
+## 🌱 Currently Learning
+- Java/Spring Boot  
+- API Security  
+- UI Design Fundamentals  
+- Better Full-Stack Project Structure  
+
+---
+
+## 📫 Contact Me
+
+📧 **Email:** mulugetaelsabet88@gmail.com  
+🔗 **LinkedIn:** [Elsabet Mulugeta](https://www.linkedin.com/in/elsabet-mulugeta-883907245)
+
+---
+
+### ⭐ “I build both the backend logic and the visual interface of digital products.”
