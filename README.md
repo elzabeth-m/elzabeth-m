@@ -5,7 +5,6 @@
 I build both the **logic** and the **visuals** of digital products.  
 My work focuses on clean backend architecture using **Java & Spring Boot**, along with clear and minimal visual design for **UI layouts, logos, icons, and typography**.
 
----
 
 ## 🚀 What I Do
 
@@ -22,7 +21,6 @@ My work focuses on clean backend architecture using **Java & Spring Boot**, alon
 - Text-based Visuals  
 - Color Systems & Typography  
 
----
 
 ## 🛠 Tech & Tools
 
@@ -38,7 +36,6 @@ My work focuses on clean backend architecture using **Java & Spring Boot**, alon
 **Others**  
 `Git` · `GitHub` · `Postman` · `IntelliJ IDEA` · `VS Code`
 
----
 
 ## 📌 Pinned Work
 
@@ -50,7 +47,6 @@ My GitHub is organized into:
 
 Check out the pinned repositories below 👇
 
----
 
 ## 🌱 Currently Learning
 - Java/Spring Boot  
@@ -58,13 +54,11 @@ Check out the pinned repositories below 👇
 - UI Design Fundamentals  
 - Better Full-Stack Project Structure  
 
----
 
 ## 📫 Contact Me
 
 📧 **Email:** mulugetaelsabet88@gmail.com  
 🔗 **LinkedIn:** [Elsabet Mulugeta](https://www.linkedin.com/in/elsabet-mulugeta-883907245)
 
----
 
 ### ⭐ “I build both the backend logic and the visual interface of digital products.”
